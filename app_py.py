@@ -1,6 +1,3 @@
-
-
-# Import Libraries
 import streamlit as st
 import torch
 import cv2
