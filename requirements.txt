@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+opencv-python
+pillow
+gtts
+speechrecognition
+google-generativeai
